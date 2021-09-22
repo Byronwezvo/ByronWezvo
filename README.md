@@ -8,4 +8,4 @@ Im Byron Wezvo, Im a regular developer born and raised in Zimbabwe.
 - 💬 Ask me about Javascript and Flutter
 - 📫 How to reach me: Facebook, Instagram and Twitter `@byronwezvo`
 - 👨‍💻 My Tech Stack : MERN or Flutter `recently fell in ❤ with CoakroachDB`
-- 🗣 I speak - Javascript/Typescript, Python, Go, Dart, Lua, some C# and I'm a serious Nodejs Backend Developer.
+- 🗣 I speak - Javascript/Typescript, Python, Go, Dart, Lua, some C# and I'm a serious Nodejs Backend Developer. Im also a Web Pen Tester 😂

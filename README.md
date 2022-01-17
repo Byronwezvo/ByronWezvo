@@ -1,6 +1,6 @@
 # Hi there
 
-Im Byron Wezvo, Im a self taught software developer based in Zimbabwe. I started programming at the age of 16 and have been going strong until now. While my skills may be however you can define them I have a stable career growth with my current position being a developer at a big company in Zimbabwe.
+Im Byron Wezvo, Im a self taught software developer based in Zimbabwe. I started programming at the age of 16 and have been going strong until now, Im still persistant. `I'm not a PRO 10X developer` but I've beeen on a stable career growth with my current position being a developer at a big company in Zimbabwe.
 
 - 🔭 I’m currently working a FBC Holdings - Ourisk as a Fullstack developer 🤐
 - 🌱 I’m currently learning  **NOTHING** `working on a closed source application`
